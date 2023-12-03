@@ -49,3 +49,7 @@ Os códigos de status HTTP são indicadores essenciais que fornecem informaçõe
 5xx - Erro do Servidor: Sinaliza problemas no servidor, como 500 Internal Server Error.
 
 Esses códigos ajudam a compreender e reagir adequadamente durante a interação com serviços web, fornecendo informações sobre o estado da solicitação.
+
+---
+
+Autor do resumo:Gabriel Nunes Carneiro Leão - 01514154
